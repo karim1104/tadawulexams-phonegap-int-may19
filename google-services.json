@@ -1,42 +1,45 @@
 {
   "project_info": {
-    "project_number": "694767596569",
-    "firebase_url": "https://moodlemobile-push.firebaseio.com",
-    "project_id": "moodlemobile-push",
-    "storage_bucket": "moodlemobile-push.appspot.com"
+    "project_number": "523007610617",
+    "firebase_url": "https://tadawulexams.firebaseio.com",
+    "project_id": "tadawulexams",
+    "storage_bucket": "tadawulexams.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:694767596569:android:a4cdad4d168c9d1a",
+        "mobilesdk_app_id": "1:523007610617:android:43251bf4cc35ab78",
         "android_client_info": {
           "package_name": "com.moodle.cisionline"
         }
       },
       "oauth_client": [
         {
-          "client_id": "694767596569-icveqqa2n56oh44l6ev1dr2oh67nh8il.apps.googleusercontent.com",
+          "client_id": "523007610617-p07mv100iv55pialrs694qcpc822svfg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCb2zogu0P_aZ2LNgdwzshWExITPKTXJyk"
-        },
-        {
-          "current_key": "AIzaSyDRT1HwT0gSsTty0whOVtoNKAh8SPrJXLE"
+          "current_key": "AIzaSyC-wHaTu6GrcVwBh0muyyDy7_Cra-bwgis"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523007610617-p07mv100iv55pialrs694qcpc822svfg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523007610617-0bb28rj3tpffr0v17da6fjoism5eb63q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moodle.cisionline",
+                "app_store_id": "1222277873"
+              }
+            }
+          ]
         }
       }
     }
